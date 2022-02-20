@@ -1,0 +1,31 @@
+Sample output 1
+Type the word file: words.txt
+Type the starting word: listen
+Type the goal word: beaker
+['listen', 'listed', 'fisted', 'fitted', 'fitter', 'bitter', 'better', 'beater', 'beaker']
+The number of steps:  9
+Duration: 0.0
+
+Sample output 2
+Type the word file: words_6_longer.txt
+Type the starting word: listen
+Type the goal word: beaker
+['listen', 'lister', 'bister', 'bitter', 'better', 'beater', 'beaker']
+The number of steps:  7
+Duration: 0.000997304916381836
+
+Sample output 3
+Type the word file: words_6_longer.txt
+Type the starting word: vaguer
+Type the goal word: drifts
+['vaguer', 'vagues', 'values', 'valves', 'calves', 'cauves', 'cruves', 'cruses', 'crusts', 'crufts', 'crafts', 'drafts', 'drifts']
+The number of steps:  13
+Duration: 0.0408782958984375
+
+Sample output 4
+Type the word file: words_6_longer.txt
+Type the starting word: klatch
+Type the goal word: giggle
+['klatch', 'clatch', 'clutch', 'clunch', 'glunch', 'gaunch', 'paunch', 'paunce', 'pawnce', 'pawnee', 'pawned', 'panned', 'panged', 'ranged', 'ragged', 'raggee', 'raggle', 'gaggle', 'giggle']
+The number of steps:  19
+Duration:  0.0867915153503418
