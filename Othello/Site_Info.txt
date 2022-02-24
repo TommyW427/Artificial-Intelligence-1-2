@@ -1,0 +1,6 @@
+Othello site held on othello.tjhsst.edu/play
+My ai is under the name 2023twilliam which you can either play or match it against the ai of another student
+Unlike the text-based version, the othello site has a aesthetic game board. 
+
+In order to run the file independently, you can run the nonSiteOthello file and input moves by index on a 64 length string board
+The board will be printed out by row and the possible moves will be shown with astrics. 
